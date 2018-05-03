@@ -1,0 +1,8 @@
+abc
+10[a]
+3[abc]4[ab]c
+2[3[a]b]
+a[]b
+0[abc]
+2[seiya[][]kobayashi]
+ab2[x2[ko]s1[e8[h2[x]a]]]
