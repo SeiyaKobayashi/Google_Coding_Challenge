@@ -10,3 +10,6 @@ Here I solved Google's coding problems (https://techdevguide.withgoogle.com) jus
 
 ## Challenge#3 (Implemented in Python)
 [Challenge: Compression and Decompression](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge)
+
+## Challenege#4 (Implemented in C)
+[Challenge: Find the Volume of Each Lake Created by Rainwater](https://techdevguide.withgoogle.com/paths/advanced/volume-of-water/#code-challenge)
