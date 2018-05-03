@@ -7,3 +7,6 @@ Here I solved Google's coding problems (https://techdevguide.withgoogle.com) jus
 
 ## Challenge#2 (Implemented in Java)
 [Challenge: Minesweeper](https://techdevguide.withgoogle.com/paths/foundational/coding-question-minesweeper/#code-challenge)
+
+## Challenge#3 (Implemented in Python)
+[Challenge: Compression and Decompression](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge)
